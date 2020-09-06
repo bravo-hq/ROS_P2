@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/yousef/ros_download/devel/include/**",
+        "/home/yousef/Rob_P1/devel/include/**",
+        "/home/yousef/robotics/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/yousef/ros_download/src/kobuki_bumper2pc/include/**",
+        "/home/yousef/ros_download/src/kobuki_keyop/include/**",
+        "/home/yousef/ros_download/src/kobuki_node/include/**",
+        "/home/yousef/ros_download/src/kobuki_safety_controller/include/**",
+        "/home/yousef/ros_download/src/turtlebot_apps/turtlebot_actions/include/**",
+        "/home/yousef/ros_download/src/yocs_cmd_vel_mux/include/**",
+        "/home/yousef/ros_download/src/yocs_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
